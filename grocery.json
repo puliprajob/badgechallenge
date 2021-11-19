@@ -1,0 +1,98 @@
+{
+    "grocery":[
+        {
+            "SLNO":"SL.NO",
+            "NAME":"NAME",
+            "QUANTITY":"QUANTITY",
+            "UNIT":"UNIT",
+            "DEPARTMENT":"DEPARTMENT",
+            "NOTES":"NOTES"
+        },
+    {
+        "SLNO":"1",
+        "NAME":"Orange",
+        "QUANTITY":"2",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Fruits",
+        "NOTES":"Organic"
+    },
+    {
+        "SLNO":"2",
+        "NAME":"Rice",
+        "QUANTITY":"20",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Rice",
+        "NOTES":"Matta"
+    },
+    {
+        "SLNO":"3",
+        "NAME":"Apple",
+        "QUANTITY":"1",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Fruits",
+        "NOTES":"Kashmir"
+    },
+    {
+        "SLNO":"4",
+        "NAME":"Potato",
+        "QUANTITY":"2",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Vegitable",
+        "NOTES":"Oraganic"
+    },
+    {
+        "SLNO":"5",
+        "NAME":"Chicken",
+        "QUANTITY":"3",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Meat",
+        "NOTES":"Broiler"
+    },
+    {
+        "SLNO":"6",
+        "NAME":"Egg",
+        "QUANTITY":"20",
+        "UNIT":"Nos",
+        "DEPARTMENT":"Poultry",
+        "NOTES":"Organic"
+    },
+    {
+        "SLNO":"7",
+        "NAME":"Carrot",
+        "QUANTITY":"1",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Vegitable",
+        "NOTES":"Organic"
+    },
+    {
+        "SLNO":"8",
+        "NAME":"Cake",
+        "QUANTITY":"1",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Bakery",
+        "NOTES":"Plum Cake"
+    },
+    {
+        "SLNO":"9",
+        "NAME":"Milk",
+        "QUANTITY":"2",
+        "UNIT":"Ltr",
+        "DEPARTMENT":"Cow Milk",
+        "NOTES":"Amul"
+    },
+    {
+        "SLNO":"10",
+        "NAME":"Sugar",
+        "QUANTITY":"2",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Grocery",
+        "NOTES":"Sugar"
+    }
+]
+}
+
+
+              
+            
+            
+            
